@@ -1,0 +1,3 @@
+# Hardware
+
+The whole system is built into a case made out of 16mm thick MDF sheets. It consists of two halves, one cotaining the screen for the singers, the two microphone holders, the Pi with the camera connected, the ESP32 with the LED strips connected to the Pi, and a power strip and 5V power supply. The other half contains the audience screen and the speakers. Both are connected through a power cable and an HDMI cable that provides both audio and video. On this page, I'll provide links to the products I bought and the STL files for everything I printed.
